@@ -3,12 +3,10 @@
     <v-app-bar
       color="deep-purple accent-4"
       dense
-      dark
-    >
+      dark>
+
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
-
-      <v-toolbar-title>PmcAppPmc App</v-toolbar-title>
-
+<v-toolbar-title>PmcApp</v-toolbar-title>
       <v-spacer></v-spacer>
 
       <v-btn icon>

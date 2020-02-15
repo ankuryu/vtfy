@@ -1,9 +1,12 @@
 <template>
+  <div>
   <v-app>
 <navbar />
+<router-view></router-view>
     <v-content>
     </v-content>
   </v-app>
+  </div>
 </template>
 
 <script>
